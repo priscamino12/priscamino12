@@ -14,6 +14,8 @@
 ##  GitHub Stats
 
 <br>
+<img src="https://komarev.com/ghpvc/?username=priscamino12&label=PROFILE+VIEWS&color=52d9d8&style=for-the-badge"/>
+<br><br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=priscamino12&show_icons=true&theme=dracula&hide_border=true&bg_color=191a21&title_color=ff79c6&icon_color=c084fc" width="48%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=priscamino12&theme=dracula&hide_border=true&background=191a21" width="48%"/>
@@ -64,22 +66,26 @@
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=priscamino12&repo=bddAvanc-&theme=dracula&bg_color=191a21&title_color=ff79c6&text_color=ffffff&icon_color=c084fc"/>
 </a>
 </td>
+</tr>
 
+<tr>
 <td>
-<a href="https://github.com/priscamino12/mahabaWeb">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=priscamino12&repo=mahabaWeb&theme=dracula&bg_color=191a21&title_color=ff79c6&text_color=ffffff&icon_color=c084fc"/>
+<a href="https://github.com/priscamino12/solea">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=priscamino12&repo=solea&theme=dracula&bg_color=191a21&title_color=ff79c6&text_color=ffffff&icon_color=c084fc"/>
 </a>
 </td>
 
 <td>
-<a href="https://github.com/priscamino12/mahabaWeb">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=priscamino12&repo=mahabaWeb&theme=dracula&bg_color=191a21&title_color=ff79c6&text_color=ffffff&icon_color=c084fc"/>
+<a href="https://github.com/priscamino12/gestionAdresseIP">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=priscamino12&repo=gestionAdresseIP&theme=dracula&bg_color=191a21&title_color=ff79c6&text_color=ffffff&icon_color=c084fc"/>
 </a>
 </td>
+</tr>
 
+<tr>
 <td>
-<a href="https://github.com/priscamino12/mahabaWeb">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=priscamino12&repo=mahabaWeb&theme=dracula&bg_color=191a21&title_color=ff79c6&text_color=ffffff&icon_color=c084fc"/>
+<a href="https://github.com/priscamino12/DEVFEST_2025_Codexia ">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=priscamino12&repo=DEVFEST_2025_Codexia &theme=dracula&bg_color=191a21&title_color=ff79c6&text_color=ffffff&icon_color=c084fc"/>
 </a>
 </td>
 
