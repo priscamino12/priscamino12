@@ -35,7 +35,7 @@
   </h1>
 
   <h3>
-    Je transforme tes idées en applications élégantes et utiles
+    Je transforme vos idées en applications élégantes et utiles
   </h3>
 
   <br>
@@ -50,6 +50,23 @@
 
 </div>
 
+
+
+<!-- STATS -->
+<div align="center">
+
+##  GitHub Stats
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=priscamino12&show_icons=true&theme=dracula&hide_border=true&bg_color=191a21&title_color=ff79c6&icon_color=c084fc" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=priscamino12&theme=dracula&hide_border=true&background=191a21" width="48%"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=priscamino12&theme=dracula&bg_color=191a21&color=ff79c6&line=c084fc&point=ffffff&area=true&hide_border=true" width="90%"/>
+
+</div>
 ---
 
 <!-- ABOUT -->
@@ -73,8 +90,8 @@ Développeuse <strong>web & mobile</strong> passionnée par la création d’exp
   <h2> Technologies & Stack que j’utilise</h2>
 
   <p>
-    <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,typescript,javascript,html,css" alt="Frontend stack" /><br><br>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,prisma,postgresql,mongodb" alt="Backend stack" /><br><br>
+    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,typescript,javascript,html,css" alt="Frontend stack" /><br><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,prisma,postgresql" alt="Backend stack" /><br><br>
     <img src="https://skillicons.dev/icons?i=reactnative,flutter,dart" alt="Mobile stack" /><br><br>
     <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman" alt="Tools" />
   </p>
@@ -134,15 +151,15 @@ Développeuse <strong>web & mobile</strong> passionnée par la création d’exp
 
 <br>
 
-<a href="https://www.linkedin.com/in/priscafanambinantsoa1204/">
+<a href="https://www.linkedin.com/in/priscafanambinantsoa1204/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-ff79c6?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://www.facebook.com/prisca.mino">
+<a href="https://www.facebook.com/prisca.mino" target="_blank">
 <img src="https://img.shields.io/badge/Facebook-c084fc?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
-<a href="mailto:tonemail@example.com">
+<a href="mailto:priscafanambinantsoa12@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Email-52d9d8?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -152,23 +169,6 @@ Développeuse <strong>web & mobile</strong> passionnée par la création d’exp
 
 </div>
 
----
-
-<!-- STATS -->
-<div align="center">
-
-##  GitHub Stats
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=priscamino12&show_icons=true&theme=dracula&hide_border=true&bg_color=191a21&title_color=ff79c6&icon_color=c084fc" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=priscamino12&theme=dracula&hide_border=true&background=191a21" width="48%"/>
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=priscamino12&theme=dracula&bg_color=191a21&color=ff79c6&line=c084fc&point=ffffff&area=true&hide_border=true" width="90%"/>
-
-</div>
 
 ---
 
