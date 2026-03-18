@@ -11,8 +11,6 @@
 <!-- STATS -->
 <div align="center">
 
-##  GitHub Stats
-
 <br>
 <img src="https://komarev.com/ghpvc/?username=priscamino12&label=PROFILE+VIEWS&color=52d9d8&style=for-the-badge"/>
 <br><br>
@@ -85,7 +83,7 @@
 <tr>
 <td>
 <a href="https://github.com/priscamino12/DEVFEST_2025_Codexia ">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=priscamino12&repo=DEVFEST_2025_Codexia &theme=dracula&bg_color=191a21&title_color=ff79c6&text_color=ffffff&icon_color=c084fc"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=priscamino12&repo=DEVFEST_2025_Codexia&theme=dracula&bg_color=191a21&title_color=ff79c6&text_color=ffffff&icon_color=c084fc"/>
 </a>
 </td>
 
