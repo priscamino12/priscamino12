@@ -1,53 +1,9 @@
-<!-- HEADER WAVY -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff79c6,50:c084fc,100:52d9d8&height=160&section=header"/>
 
-<!-- NAVBAR -->
 <div align="center">
-
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,30&height=2"/>
-
-  <p>
-    <a href="#about">
-      <img src="https://img.shields.io/badge/✦ À propos-ff79c6?style=for-the-badge&logoColor=white&labelColor=191a21"/>
-    </a>
-    <a href="#stack">
-      <img src="https://img.shields.io/badge/ Stack-c084fc?style=for-the-badge&logoColor=white&labelColor=191a21"/>
-    </a>
-    <a href="#projects">
-      <img src="https://img.shields.io/badge/ Projets-52d9d8?style=for-the-badge&logoColor=white&labelColor=191a21"/>
-    </a>
-    <a href="#contact">
-      <img src="https://img.shields.io/badge/Contact-ff9ec1?style=for-the-badge&logoColor=white&labelColor=191a21"/>
-    </a>
-  </p>
-
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=30,20,12&height=2"/>
-
-</div>
-
-<br>
-
-<!-- HERO -->
-<div align="center">
-
   <h1>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=ff79c6&center=true&vCenter=true&width=700&lines=Hey+🌸+Moi+c'est+Prisca;Développeuse+Web+%26+Mobile;Bienvenue+sur+mon+univers+" />
   </h1>
-
-  <h3>
-    Je transforme vos idées en applications élégantes et utiles
-  </h3>
-
-  <br>
-
-  <img src="https://img.shields.io/badge/🌸 Passionnée de code-ff9ec1?style=flat-square"/>
-  <img src="https://img.shields.io/badge/📍 Madagascar-c084fc?style=flat-square"/>
-  <img src="https://img.shields.io/badge/ Always learning-52d9d8?style=flat-square"/>
-
-  <br><br>
-
-  <img src="https://github-profile-trophy.vercel.app/?username=priscamino12&theme=dracula&no-frame=true&margin-w=10&margin-h=10&title_color=ff79c6&icon_color=c084fc"/>
-
 </div>
 
 
@@ -67,21 +23,6 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=priscamino12&theme=dracula&bg_color=191a21&color=ff79c6&line=c084fc&point=ffffff&area=true&hide_border=true" width="90%"/>
 
 </div>
----
-
-<!-- ABOUT -->
-<div id="about" align="center">
-
-## ✦ À propos de moi
-
-<p>
-Moi c’est <strong>Prisca Fanambinantsoa</strong> 🌸 <br>
-Développeuse <strong>web & mobile</strong> passionnée par la création d’expériences modernes et intuitives. <br><br>
-<p><em>Code + Design + Émotion = mon univers ✨</em></p>
-
-</div>
-
----
 
 <!-- STACK -->
 
@@ -112,6 +53,30 @@ Développeuse <strong>web & mobile</strong> passionnée par la création d’exp
 
 <table>
 <tr>
+<td>
+<a href="https://github.com/priscamino12/mahabaWeb">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=priscamino12&repo=mahabaWeb&theme=dracula&bg_color=191a21&title_color=ff79c6&text_color=ffffff&icon_color=c084fc"/>
+</a>
+</td>
+
+<td>
+<a href="https://github.com/priscamino12/bddAvanc-">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=priscamino12&repo=bddAvanc-&theme=dracula&bg_color=191a21&title_color=ff79c6&text_color=ffffff&icon_color=c084fc"/>
+</a>
+</td>
+
+<td>
+<a href="https://github.com/priscamino12/mahabaWeb">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=priscamino12&repo=mahabaWeb&theme=dracula&bg_color=191a21&title_color=ff79c6&text_color=ffffff&icon_color=c084fc"/>
+</a>
+</td>
+
+<td>
+<a href="https://github.com/priscamino12/mahabaWeb">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=priscamino12&repo=mahabaWeb&theme=dracula&bg_color=191a21&title_color=ff79c6&text_color=ffffff&icon_color=c084fc"/>
+</a>
+</td>
+
 <td>
 <a href="https://github.com/priscamino12/mahabaWeb">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=priscamino12&repo=mahabaWeb&theme=dracula&bg_color=191a21&title_color=ff79c6&text_color=ffffff&icon_color=c084fc"/>
@@ -170,7 +135,6 @@ Développeuse <strong>web & mobile</strong> passionnée par la création d’exp
 </div>
 
 
----
 
 <!-- FOOTER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:52d9d8,50:c084fc,100:ff79c6&height=140&section=footer"/>
