@@ -11,13 +11,13 @@
       <img src="https://img.shields.io/badge/✦ À propos-ff79c6?style=for-the-badge&logoColor=white&labelColor=191a21"/>
     </a>
     <a href="#stack">
-      <img src="https://img.shields.io/badge/💻 Stack-c084fc?style=for-the-badge&logoColor=white&labelColor=191a21"/>
+      <img src="https://img.shields.io/badge/ Stack-c084fc?style=for-the-badge&logoColor=white&labelColor=191a21"/>
     </a>
     <a href="#projects">
-      <img src="https://img.shields.io/badge/🚀 Projets-52d9d8?style=for-the-badge&logoColor=white&labelColor=191a21"/>
+      <img src="https://img.shields.io/badge/ Projets-52d9d8?style=for-the-badge&logoColor=white&labelColor=191a21"/>
     </a>
     <a href="#contact">
-      <img src="https://img.shields.io/badge/📬 Contact-ff9ec1?style=for-the-badge&logoColor=white&labelColor=191a21"/>
+      <img src="https://img.shields.io/badge/Contact-ff9ec1?style=for-the-badge&logoColor=white&labelColor=191a21"/>
     </a>
   </p>
 
@@ -31,18 +31,18 @@
 <div align="center">
 
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=ff79c6&center=true&vCenter=true&width=700&lines=Hey+🌸+Moi+c'est+Prisca;Développeuse+Web+%26+Mobile;Bienvenue+sur+mon+univers+✨" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=ff79c6&center=true&vCenter=true&width=700&lines=Hey+🌸+Moi+c'est+Prisca;Développeuse+Web+%26+Mobile;Bienvenue+sur+mon+univers+" />
   </h1>
 
   <h3>
-    💜 Je transforme tes idées en applications élégantes et utiles
+    Je transforme tes idées en applications élégantes et utiles
   </h3>
 
   <br>
 
   <img src="https://img.shields.io/badge/🌸 Passionnée de code-ff9ec1?style=flat-square"/>
   <img src="https://img.shields.io/badge/📍 Madagascar-c084fc?style=flat-square"/>
-  <img src="https://img.shields.io/badge/🚀 Always learning-52d9d8?style=flat-square"/>
+  <img src="https://img.shields.io/badge/ Always learning-52d9d8?style=flat-square"/>
 
   <br><br>
 
@@ -60,11 +60,6 @@
 <p>
 Moi c’est <strong>Prisca Fanambinantsoa</strong> 🌸 <br>
 Développeuse <strong>web & mobile</strong> passionnée par la création d’expériences modernes et intuitives. <br><br>
-💡 J’aime transformer des idées en applications concrètes <br>
-🎨 J’accorde une grande importance au design et à l’expérience utilisateur <br>
-🚀 Toujours en train d’apprendre et de m’améliorer
-</p>
-
 <p><em>Code + Design + Émotion = mon univers ✨</em></p>
 
 </div>
@@ -75,7 +70,7 @@ Développeuse <strong>web & mobile</strong> passionnée par la création d’exp
 
 <<div id="stack" align="center">
 
-  <h2>💻 Technologies & Stack que j’utilise</h2>
+  <h2> Technologies & Stack que j’utilise</h2>
 
   <p>
     <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,typescript,javascript,html,css" alt="Frontend stack" /><br><br>
@@ -94,7 +89,7 @@ Développeuse <strong>web & mobile</strong> passionnée par la création d’exp
 <!-- PROJECTS -->
 <div id="projects" align="center">
 
-## 🚀 Projets phares
+##  Projets phares
 
 <br>
 
@@ -135,7 +130,7 @@ Développeuse <strong>web & mobile</strong> passionnée par la création d’exp
 <!-- CONTACT -->
 <div id="contact" align="center">
 
-## 📬 Contact
+##  Contact
 
 <br>
 
@@ -162,7 +157,7 @@ Développeuse <strong>web & mobile</strong> passionnée par la création d’exp
 <!-- STATS -->
 <div align="center">
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <br>
 
