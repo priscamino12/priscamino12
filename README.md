@@ -1,31 +1,31 @@
-<!-- Prisca Fanambinantsoa - GitHub Profile README -->
-
 <br>
 
 <div align="center">
+<div align="center">
 
-  <!-- "Navbar" stylée -->
   <p>
-    <a href="#about"><img src="https://img.shields.io/badge/✦_À_propos-de_moi-pink?style=for-the-badge&logoColor=white&color=%23ff9ec1"></a>
-    <a href="#stack"><img src="https://img.shields.io/badge/💻_Stack-utilisé-violet?style=for-the-badge&logoColor=white&color=%23c084fc"></a>
-    <a href="#projects"><img src="https://img.shields.io/badge/🚀_Projets-phare-turquoise?style=for-the-badge&logoColor=white&color=%2352d9d8"></a>
-    <a href="#contact"><img src="https://img.shields.io/badge/📬_Contact-moi-rose?style=for-the-badge&logoColor=white&color=%23ff9ec1"></a>
+    <a href="#about">
+      <img src="https://img.shields.io/badge/✦ À propos-de moi-ff79c6?style=for-the-badge&logoColor=white&color=ff79c6"/>
+    </a>
+    <a href="#stack">
+      <img src="https://img.shields.io/badge/💻 Stack-Tech-c084fc?style=for-the-badge&logoColor=white&color=c084fc"/>
+    </a>
+    <a href="#projects">
+      <img src="https://img.shields.io/badge/🚀 Projets-Featured-52d9d8?style=for-the-badge&logoColor=white&color=52d9d8"/>
+    </a>
+    <a href="#contact">
+      <img src="https://img.shields.io/badge/📬 Contact-Me-ff9ec1?style=for-the-badge&logoColor=white&color=ff9ec1"/>
+    </a>
   </p>
 
-  <!-- Grand titre avec ton nom -->
-  <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=%23ff79c6&center=true&vCenter=true&width=600&lines=Salut+%F0%9F%8C%B8+!+Moi+c'est+Prisca;Développeuse+Web+%26+Mobile" alt="Typing SVG Prisca" />
-  </h1>
+</div>
 
-  <h3 align="center" style="color: #c084fc; margin-top: -10px;">
-    Je transforme tes idées en applications qui font battre les cœurs 💜✨
-  </h3>
 
   <br>
 
   <!-- Badges fun & féminins -->
   <img src="https://img.shields.io/badge/🌸_Passionnée_de_code-oui!-pink?style=flat-square&logoColor=white&color=%23ff9ec1"/>
-  <img src="https://img.shields.io/badge/💖_Madagascar-Fianarantsoa-violet?style=flat-square&logoColor=white&color=%23c084fc"/>
+  <img src="https://img.shields.io/badge/💖_Madagascar-Antananarivo-violet?style=flat-square&logoColor=white&color=%23c084fc"/>
   <img src="https://img.shields.io/badge/🚀_Toujours_en_apprentissage-turquoise?style=flat-square&logoColor=white&color=%2352d9d8"/>
 
   <br><br>
@@ -39,7 +39,7 @@
 <!-- Section À propos -->
 <div id="about" align="center">
 
-  <h2>✦ À propos de moi 💕</h2>
+  <h2>✦ À propos de moi </h2>
 
   <p>
     Moi c’est <strong>Prisca Fanambinantsoa</strong> 🌸<br>
@@ -58,7 +58,7 @@
 <!-- Stack utilisée -->
 <div id="stack" align="center">
 
-  <h2>💻 Technologies & Stack que j’utilise</h2>
+  <h2> Technologies & Stack que j’utilise</h2>
 
   <p>
     <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,typescript,javascript,html,css" alt="Frontend stack" /><br><br>
@@ -78,7 +78,7 @@
 <!-- Projets phares (tu peux ajouter plus tard des GIFs ou images) -->
 <div id="projects" align="center">
 
-  <h2>🚀 Quelques projets qui me rendent fière</h2>
+  <h2>Quelques projets qui me rendent fière</h2>
 
   <table align="center">
     <tr>
@@ -86,13 +86,13 @@
         <a href="https://github.com/priscamino12/mahabaWeb">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=priscamino12&repo=mahabaWeb&theme=dracula&bg_color=191a21&title_color=ff79c6&text_color=ffffff&icon_color=c084fc" alt="mahabaWeb" />
         </a>
-        <br>Application de rencontre web 💕
+       
       </td>
       <td align="center">
         <a href="https://github.com/priscamino12/FlutterMobileDev">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=priscamino12&repo=FlutterMobileDev&theme=dracula&bg_color=191a21&title_color=ff79c6&text_color=ffffff&icon_color=c084fc" alt="FlutterMobileDev" />
         </a>
-        <br>App mobile Flutter innovante 📱
+      
       </td>
     </tr>
     <tr>
@@ -100,13 +100,13 @@
         <a href="https://github.com/priscamino12/ProjetNodeReactExpress">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=priscamino12&repo=ProjetNodeReactExpress&theme=dracula&bg_color=191a21&title_color=ff79c6&text_color=ffffff&icon_color=c084fc" alt="ProjetNodeReactExpress" />
         </a>
-        <br>Gestion de notes fullstack 📝
+      
       </td>
       <td align="center">
         <a href="https://github.com/priscamino12/backendFormation">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=priscamino12&repo=backendFormation&theme=dracula&bg_color=191a21&title_color=ff79c6&text_color=ffffff&icon_color=c084fc" alt="backendFormation" />
         </a>
-        <br>Backend appris chez Orange Digital Center 🎓
+        
       </td>
     </tr>
   </table>
@@ -118,7 +118,7 @@
 <!-- Contact -->
 <div id="contact" align="center">
 
-  <h2>📬 Contacte-moi ! 💌</h2>
+  <h2>Contacte-moi ! 💌</h2>
 
   <p>
     <a href="https://www.linkedin.com/in/priscafanambinantsoa1204/">
