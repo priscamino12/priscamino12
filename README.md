@@ -16,10 +16,6 @@
 <br><br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=priscamino12&theme=dracula&hide_border=true&background=191a21" width="48%"/>
 
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=priscamino12&theme=dracula&bg_color=191a21&color=ff79c6&line=c084fc&point=ffffff&area=true&hide_border=true" width="90%"/>
-
 </div>
 
 <!-- STACK -->
