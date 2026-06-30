@@ -33,8 +33,6 @@
   <img src="https://img.shields.io/badge/TypeScript-52d9d8?style=flat-square&logo=typescript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Tailwind-c084fc?style=flat-square&logo=tailwindcss&logoColor=white"/>
 
-  <tt> // </tt>
-
   `Backend` &nbsp;
   <img src="https://img.shields.io/badge/Node.js-6ab04c?style=flat-square&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express-ff79c6?style=flat-square&logo=express&logoColor=white"/>
@@ -49,12 +47,9 @@
   <img src="https://img.shields.io/badge/Git-ff79c6?style=flat-square&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-c084fc?style=flat-square&logo=figma&logoColor=white"/>
 </div>
----
 
 
 ##  Contact
-
-<br>
 
 <a href="https://www.linkedin.com/in/priscafanambinantsoa1204/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-ff79c6?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -75,6 +70,7 @@
 </div>
 
 
+<br>
 
 <!-- FOOTER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:52d9d8,50:c084fc,100:ff79c6&height=140&section=footer"/>
