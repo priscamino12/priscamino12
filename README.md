@@ -2,43 +2,35 @@
 
 <div align="center">
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=ff79c6&center=true&vCenter=true&width=550&lines=Moi+c'est+Prisca;Developpeuse+Full-Stack;Bienvenue+sur+mon+profil" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=36&pause=1000&color=ff79c6&center=true&vCenter=true&width=700&lines=Moi+c'est+Prisca;Développeuse+Full-Stack+Web+%26+Mobile;Bienvenue+sur+mon+profil" />
   </h1>
   <p>Conception d'applications performantes, fluides et aux interfaces soignées.</p>
   <img src="https://komarev.com/ghpvc/?username=priscamino12&label=PROFILE+VIEWS&color=52d9d8&style=flat-square"/>
 </div>
 
-<!-- STATS CORRIGÉES -->
+<!-- STATS -->
 <div align="center">
-  <table border="0" cellpadding="0" cellspacing="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=priscamino12&show_icons=true&theme=dracula&hide_border=true&bg_color=191a21&title_color=ff79c6&icon_color=c084fc" width="400"/>
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=priscamino12&theme=dracula&hide_border=true&background=191a21" width="400"/>
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=priscamino12&show_icons=true&theme=dracula&hide_border=true&bg_color=191a21&title_color=ff79c6&icon_color=c084fc" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priscamino12&theme=dracula&hide_border=true&background=191a21" width="48%"/>
 </div>
 
 <hr/>
 
-<!-- STACK MINIMALISTE -->
+<!-- STACK -->
 <div align="center">
   <h3>Technologies & Stack</h3>
   
   `Frontend` &nbsp;
   <img src="https://img.shields.io/badge/React-ff79c6?style=flat-square&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.design&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-52d9d8?style=flat-square&logo=typescript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tailwind-c084fc?style=flat-square&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind-c084fc?style=flat-square&logo=tailwind-css&logoColor=white"/>
 
   <tt> // </tt>
 
   `Backend` &nbsp;
-  <img src="https://img.shields.io/badge/Node.js-6ab04c?style=flat-square&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express-ff79c6?style=flat-square&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-6ab04c?style=flat-square&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-ff79c6?style=flat-square"/>
   <img src="https://img.shields.io/badge/NestJS-e02424?style=flat-square&logo=nestjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Prisma-52d9d8?style=flat-square&logo=prisma&logoColor=black"/>
   <img src="https://img.shields.io/badge/PostgreSQL-c084fc?style=flat-square&logo=postgresql&logoColor=white"/>
