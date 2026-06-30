@@ -5,14 +5,14 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=38&pause=1000&color=ff79c6&center=true&vCenter=true&width=700&lines=Hey+🌸+Moi+c'est+Prisca;Développeuse+Full-Stack+Web+%26+Mobile;Bienvenue+dans+mon+univers+✨" />
   </h1>
 
-  <p>✨ Passionnée par la création d'applications web et mobiles modernes, fluides et au design soigné.</p>
+  <p>✨ Passionnée par la création d'applications modernes, fluides et au design soigné.</p>
   
   <img src="https://komarev.com/ghpvc/?username=priscamino12&label=PROFILE+VIEWS&color=52d9d8&style=flat-square"/>
 </div>
 
 <br>
 
-<!-- STATS -->
+<!-- STATS COLOQUÉES -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=priscamino12&show_icons=true&theme=dracula&hide_border=true&bg_color=191a21&title_color=ff79c6&icon_color=c084fc" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=priscamino12&theme=dracula&hide_border=true&background=191a21" width="48%"/>
@@ -20,54 +20,32 @@
 
 ---
 
-<!-- STACK -->
-<div id="stack" align="center">
+<!-- STACK MINIMALISTE -->
+<div align="center">
   <h2>🛠️ Technologies & Stack</h2>
   <br>
-  <p>
-    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,typescript,javascript" alt="Frontend" /><br><br>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,prisma,postgresql" alt="Backend" /><br><br>
-    <img src="https://skillicons.dev/icons?i=reactnative,flutter,git,figma" alt="Mobile & Tools" />
-  </p>
-</div>
+  
+  `Frontend` &nbsp;
+  <img src="https://img.shields.io/badge/React-ff79c6?style=flat-square&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.design&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-52d9d8?style=flat-square&logo=typescript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tailwind-c084fc?style=flat-square&logo=tailwind-css&logoColor=white"/>
 
----
+  <br><br>
 
-<!-- PROJECTS -->
-<div id="projects" align="center">
+  `Backend` &nbsp;
+  <img src="https://img.shields.io/badge/Node.js-6ab04c?style=flat-square&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-ff79c6?style=flat-square"/>
+  <img src="https://img.shields.io/badge/NestJS-e02424?style=flat-square&logo=nestjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prisma-52d9d8?style=flat-square&logo=prisma&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-c084fc?style=flat-square&logo=postgresql&logoColor=white"/>
 
-## 🚀 Projets phares
+  <br><br>
 
-<br>
-
-<table>
-<tr>
-<td>
-<a href="https://github.com/priscamino12/mahabaWeb">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=priscamino12&repo=mahabaWeb&theme=dracula&bg_color=191a21&title_color=ff79c6&text_color=ffffff&icon_color=c084fc"/>
-</a>
-</td>
-<td>
-<a href="https://github.com/priscamino12/DEVFEST_2025_Codexia">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=priscamino12&repo=DEVFEST_2025_Codexia&theme=dracula&bg_color=191a21&title_color=ff79c6&text_color=ffffff&icon_color=c084fc"/>
-</a>
-</td>
-</tr>
-
-<tr>
-<td>
-<a href="https://github.com/priscamino12/solea">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=priscamino12&repo=solea&theme=dracula&bg_color=191a21&title_color=ff79c6&text_color=ffffff&icon_color=c084fc"/>
-</a>
-</td>
-<td>
-<a href="https://github.com/priscamino12/gestionAdresseIP">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=priscamino12&repo=gestionAdresseIP&theme=dracula&bg_color=191a21&title_color=ff79c6&text_color=ffffff&icon_color=c084fc"/>
-</a>
-</td>
-</tr>
-</table>
-
+  `Mobile & Tools` &nbsp;
+  <img src="https://img.shields.io/badge/Flutter-52d9d8?style=flat-square&logo=flutter&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-ff79c6?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-c084fc?style=flat-square&logo=figma&logoColor=white"/>
 </div>
 
 ---
